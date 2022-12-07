@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include elevateapp *.css
+recursive-include elevateapp *.csv
+recursive-include elevateapp *.html
+recursive-include elevateapp *.ico
+recursive-include elevateapp *.js
+recursive-include elevateapp *.json
+recursive-include elevateapp *.md
+recursive-include elevateapp *.png
+recursive-include elevateapp *.py
+recursive-include elevateapp *.svg
+recursive-include elevateapp *.txt
+recursive-exclude elevateapp *.pyc
