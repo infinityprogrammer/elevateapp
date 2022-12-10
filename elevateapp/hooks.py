@@ -109,7 +109,7 @@ doc_events = {
 	# 	"on_trash": "method"
 	# },
     "Salary Slip": {
-        "on_submit": "elevateapp.elevateapp.override.test_fn",
+        "on_submit": "elevateapp.elevateapp.override.gratuity_journal",
     }
 }
 
